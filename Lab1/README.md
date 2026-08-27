@@ -19,8 +19,8 @@ The m4 not connecting is an issue that usually arises whenever attempting to fla
 
 If that does not fix your problem, try the below steps
 
-1.)  There is a sliding switch on the launchpad next tot he microUSB port, flip the switch, that switch turns the board on and off
-2.) If that doesn't work, then click on the project you're working on, and go to properties (alt+enter)
+- There is a sliding switch on the launchpad next tot he microUSB port, flip the switch, that switch turns the board on and off
+- If that doesn't work, then click on the project you're working on, and go to properties (alt+enter)
       -From there go to the debug tab, open "Auto Run and Launch Options", and make sure under "Launch Options" that the setting "Connect to the target on debugger startup" is checked
       - <img width="800" height="523" alt="image" src="https://github.com/user-attachments/assets/76123ae1-517b-4586-a2c7-361c89f9bb63" />
 
