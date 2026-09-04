@@ -1,3 +1,18 @@
+## TODOs
+- Part A: Blinking the LEDs on-board Tiva
+- Part B: UART initialization, reading outputs on the CCS console 
+- Bonus points: Toggle between the R/G/B LED colors when a button is pressed 
+
+## Pointers
+* [Walkthrough video](https://youtu.be/TgC7QpoGxII)
+* [Setup snapshots](https://youtu.be/yEuCerHp7w4) 
+* [Tooling walkthrough](https://youtu.be/u9PY5E4wrd8) 
+* [Multimod walkthrough](https://youtu.be/XV-0SoI8MCA)  
+
+### IDE: Code Composer Studio (CCS)
+- Install CCS >= 11.1.0. [Download link](https://software-dl.ti.com/ccs/esd/documents/ccs_downloads.html) 
+- [See Instructions.](https://software-dl.ti.com/ccs/esd/documents/users_guide/ccs_installation.html); select the custom install and select component: TM4C12x Arm Cortex M4F-based MCUs
+
 ### TivaWare SDK Download
 - For downloading the **TivaWare SDK**, please make a TI account and download it from the following link: 
 [ti.com/tool/SW-TM4C](https://www.ti.com/tool/SW-TM4C) 
@@ -10,7 +25,6 @@
 ### Resolving issues with "uartstdio not found"
 - move the uartstdio.h and uartstdio.c files into driverlib
 -   can be found in this file path C:\ti\TivaWare_C_Series-2.2.0.295\driverlib
-
 
 
 ### Common Flashing Issue - Cortex M4: Error Connecting to the Target
