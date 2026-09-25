@@ -8,5 +8,6 @@
 
 
 ## Pointers
+* [G8RTOS Hands-on](https://youtu.be/Iru-JiXH2c8)  
 * [Walkthrough video](https://youtu.be/uBvrZMxoyzE)
 * [Sample interfacing demo](https://youtu.be/huqvGCKN_bU)  
