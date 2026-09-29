@@ -1,4 +1,4 @@
-## TODOs
+## Lab #1: LED Blinking and Console Interfacing (UART)
 - Part A: Blinking the LEDs on-board Tiva
 - Part B: UART initialization, reading outputs on the CCS console 
 - Bonus points: Toggle between the R/G/B LED colors when a button is pressed 

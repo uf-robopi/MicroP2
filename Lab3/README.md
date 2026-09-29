@@ -1,4 +1,4 @@
-## TODOs
+## Lab #3: G8RTOS Scheduler and Synchronizers
 - Part A: Setting up driver packages and OS structure
 - Part B: Implementing thread structures, exception handlers & schedulers 
 - Part C: Implementing semaphores & peripheral controls

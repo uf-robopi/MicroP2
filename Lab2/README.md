@@ -1,4 +1,4 @@
-## TODOs
+## Lab #2: I2C and SPI: Timers, Sensor Interfacing, and I/O
 - Part A: Interfacing sensor drivers with I2C communication
 - Part B: Output IMU and Optical sensor data with UART 
 - Part C: Output IMU and Optical sensor data on the LCD Display
