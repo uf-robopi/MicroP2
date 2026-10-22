@@ -7,9 +7,14 @@
 - Bonus points: LED matrix interfacing based on x-y acceleration measured by IMU
 
 
-## Notes and Pointers
+## Notes
 * There is no initial template for this lab; we will share some graphics and OS drivers with you. Beyond that, you will need to prepare the codebase for yourself. 
 * Starting from your working Lab3 should suffice.
 * Highly recommended: Review Lecture 5-6 materials and Chapters 3-5 of the textbook 
+
+
+## Pointers
+* [Improved G8RTOS Hands-on](https://youtu.be/dPZzC6g-k-E)
 * [Sample interfacing demo](https://youtu.be/yDRkCWjt62c)  
+
 
